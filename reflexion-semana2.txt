@@ -1,0 +1,13 @@
+
+¿Por qué es importante para un desarrollador saber usar la terminal?
+
+1. La terminal permite crear, mover y eliminar archivos sin necesidad de usar el mouse.
+2. Es mucho más rápida que navegar carpetas gráficamente.
+3. Muchos servidores en la nube no tienen interfaz gráfica, solo terminal.
+4. Git y GitHub se manejan mejor desde la terminal.
+5. Permite automatizar tareas repetitivas con scripts.
+6. Da control total sobre el sistema y el proyecto.
+7. Las herramientas profesionales (Node.js, npm) se usan desde terminal.
+8. Permite conectarse a servidores remotos por SSH.
+9. Es fundamental para depurar errores del sistema.
+10. Todo programador profesional debe dominar la terminal.
